@@ -1,0 +1,19 @@
+============================================================
+TEXT ANALYSIS REPORT
+============================================================
+
+Total Participants : 161
+
+Analysis Completed
+------------------------------
+✓ Strengths Summary
+✓ Improvements Summary
+✓ Most Common Strengths
+✓ Most Common Improvements
+
+Output Files Generated
+------------------------------
+✓ strengths_summary.csv
+✓ improvements_summary.csv
+✓ most_common_strengths.csv
+✓ most_common_improvements.csv

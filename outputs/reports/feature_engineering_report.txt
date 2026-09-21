@@ -1,0 +1,21 @@
+============================================================
+FEATURE ENGINEERING REPORT
+============================================================
+
+Total Participants : 161
+
+Features Created
+-----------------------------
+✓ Participant_ID
+✓ Age_Years
+✓ Age_Months
+✓ Experience_Years
+✓ Experience_Months
+✓ Age_Group
+✓ Experience_Group
+✓ Content_Quality_Index
+✓ Trainer_Effectiveness_Index
+✓ Learning_Environment_Index
+✓ NPS_Category
+✓ Is_Promoter
+✓ Is_Passive

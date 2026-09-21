@@ -1,0 +1,48 @@
+======================================================================
+DASHBOARD INTEGRATION REPORT
+======================================================================
+
+Project Summary
+-----------------------------------
+Total Participants : 161
+Average NPS        : 9.16
+Promoters          : 126
+Passives           : 35
+Detractors         : 0
+
+Project Outputs
+-----------------------------------
+Charts Generated        : 26
+Tables Generated        : 37
+Reports Generated       : 13
+Dashboard Files Created : 5
+
+Dashboard Files
+-----------------------------------
+dashboard_chart_index.csv
+dashboard_kpi.csv
+dashboard_metadata.csv
+dashboard_summary.csv
+dashboard_table_index.csv
+
+Available Reports
+-----------------------------------
+attribute_impact_report.txt
+batch_analysis_report.txt
+dashboard_integration_report.txt
+data_cleaning_report.txt
+demographic_analysis_report.txt
+EDA_Report.txt
+feature_engineering_report.txt
+individual_analysis_report.txt
+instructor_analysis_report.txt
+predictive_analysis_report.txt
+root_cause_analysis_report.txt
+statistical_analysis_report.txt
+text_analysis_report.txt
+
+Model Information
+-----------------------------------
+Best Model : best_nps_model.pkl
+
+Dashboard Integration Completed Successfully.

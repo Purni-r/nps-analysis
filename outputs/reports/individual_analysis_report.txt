@@ -1,0 +1,81 @@
+======================================================================
+INDIVIDUAL NPS ANALYSIS REPORT
+======================================================================
+
+Total Participants : 161
+Average NPS : 9.16
+Promoters : 126
+Passives : 35
+
+TOP DEPARTMENT
+Dept                         R&D-EV Sys D&D
+Participants                              1
+Average_NPS                            10.0
+Promoters                                 1
+Passives                                  0
+Average_Content_Index                   4.0
+Average_Trainer_Index                   4.0
+Average_Environment_Index               4.0
+Promoter_Percentage                   100.0
+Name: 11, dtype: object
+
+BOTTOM DEPARTMENT
+Dept                             MKTG
+Participants                        1
+Average_NPS                       8.0
+Promoters                           0
+Passives                            1
+Average_Content_Index        2.666667
+Average_Trainer_Index        3.666667
+Average_Environment_Index         3.5
+Promoter_Percentage               0.0
+Name: 3, dtype: object
+
+TOP ROLE
+Role                         Category Head - Commercials & IT
+Participants                                                1
+Average_NPS                                              10.0
+Promoters                                                   1
+Passives                                                    0
+Average_Content_Index                                     4.0
+Average_Trainer_Index                                     4.0
+Average_Environment_Index                                 4.0
+Promoter_Percentage                                     100.0
+Name: 2, dtype: object
+
+TOP REGION
+Region                       Delhi
+Participants                     1
+Average_NPS                   10.0
+Promoters                        1
+Passives                         0
+Average_Content_Index          4.0
+Average_Trainer_Index          4.0
+Average_Environment_Index      3.5
+Promoter_Percentage          100.0
+Name: 3, dtype: object
+
+TOP AGE GROUP
+Age_Group                    20-25 (Early Career)
+Participants                                   58
+Average_NPS                              9.310345
+Promoters                                      49
+Passives                                        9
+Average_Content_Index                    3.701149
+Average_Trainer_Index                    3.810345
+Average_Environment_Index                3.741379
+Promoter_Percentage                     84.482759
+Name: 0, dtype: object
+
+TOP EXPERIENCE GROUP
+Experience_Group             2-5 Years (Junior)
+Participants                                 31
+Average_NPS                            9.290323
+Promoters                                    27
+Passives                                      4
+Average_Content_Index                  3.741935
+Average_Trainer_Index                  3.795699
+Average_Environment_Index              3.709677
+Promoter_Percentage                   87.096774
+Name: 2, dtype: object
+

@@ -1,0 +1,57 @@
+======================================================================
+ROOT CAUSE ANALYSIS REPORT
+======================================================================
+
+Dataset Summary
+-----------------------------------
+Total Participants : 161
+
+NPS Category Summary
+-----------------------------------
+NPS_Category  Participants  Average_NPS  Percentage
+    Promoter           126     9.547619       78.26
+     Passive            35     7.742857       21.74
+
+Attribute Comparison
+-----------------------------------
+               Attribute  Passive  Promoter
+           Job Relevance    3.400     3.873
+         Content Clarity    3.257     3.675
+  Learning Effectiveness    3.314     3.786
+      Learner Engagement    3.486     3.849
+    Trainer Facilitation    3.343     3.825
+Trainer Feedback Quality    3.457     3.825
+    Learning Environment    3.486     3.746
+    Overall Satisfaction    3.343     3.810
+
+Root Cause Gap Analysis
+-----------------------------------
+               Attribute  Promoter_Score  Detractor_Score  Gap
+           Job Relevance        3.873016              NaN  NaN
+         Content Clarity        3.674603              NaN  NaN
+  Learning Effectiveness        3.785714              NaN  NaN
+      Learner Engagement        3.849206              NaN  NaN
+    Trainer Facilitation        3.825397              NaN  NaN
+Trainer Feedback Quality        3.825397              NaN  NaN
+    Learning Environment        3.746032              NaN  NaN
+    Overall Satisfaction        3.809524              NaN  NaN
+
+Priority Matrix
+-----------------------------------
+               Attribute  Promoter_Score  Detractor_Score  Gap  Average_Score  Priority_Score
+           Job Relevance        3.873016              NaN  NaN       3.770186             NaN
+         Content Clarity        3.674603              NaN  NaN       3.583851             NaN
+  Learning Effectiveness        3.785714              NaN  NaN       3.683230             NaN
+      Learner Engagement        3.849206              NaN  NaN       3.770186             NaN
+    Trainer Facilitation        3.825397              NaN  NaN       3.720497             NaN
+Trainer Feedback Quality        3.825397              NaN  NaN       3.745342             NaN
+    Learning Environment        3.746032              NaN  NaN       3.689441             NaN
+    Overall Satisfaction        3.809524              NaN  NaN       3.708075             NaN
+
+Top 5 Improvement Priorities
+-----------------------------------
+Job Relevance (Priority Score = nan)
+Content Clarity (Priority Score = nan)
+Learning Effectiveness (Priority Score = nan)
+Learner Engagement (Priority Score = nan)
+Trainer Facilitation (Priority Score = nan)

@@ -1,0 +1,44 @@
+======================================================================
+ATTRIBUTE IMPACT ANALYSIS REPORT
+======================================================================
+
+TOP ATTRIBUTES AFFECTING NPS
+--------------------------------------------------
+                  Attribute  Correlation_with_NPS
+Trainer_Effectiveness_Index              0.534092
+      Content_Quality_Index              0.532119
+       Trainer Facilitation              0.528890
+       Overall Satisfaction              0.496576
+     Learning Effectiveness              0.484611
+         Learner Engagement              0.460986
+              Job Relevance              0.460986
+   Trainer Feedback Quality              0.456470
+ Learning_Environment_Index              0.425117
+            Content Clarity              0.411013
+
+TRAINER ATTRIBUTE SUMMARY
+--------------------------------------------------
+                           Average  Std_Deviation  Minimum  Maximum
+Trainer Facilitation      3.720497       0.477116      2.0      4.0
+Trainer Feedback Quality  3.745342       0.451103      2.0      4.0
+
+LEARNING ATTRIBUTE SUMMARY
+--------------------------------------------------
+                         Average  Std_Deviation  Minimum  Maximum
+Job Relevance           3.770186       0.422026      3.0      4.0
+Content Clarity         3.583851       0.586931      2.0      4.0
+Learning Effectiveness  3.683230       0.505252      2.0      4.0
+Learner Engagement      3.770186       0.422026      3.0      4.0
+Learning Environment    3.689441       0.502942      2.0      4.0
+Overall Satisfaction    3.708075       0.456067      3.0      4.0
+
+INSTRUCTOR IMPROVEMENT PRIORITY
+--------------------------------------------------
+               Attribute  Average_Score  Correlation_with_NPS  Priority_Score
+         Content Clarity       3.583851              0.411013        0.171043
+  Learning Effectiveness       3.683230              0.484611        0.153510
+    Trainer Facilitation       3.720497              0.528890        0.147826
+    Overall Satisfaction       3.708075              0.496576        0.144963
+Trainer Feedback Quality       3.745342              0.456470        0.116244
+      Learner Engagement       3.770186              0.460986        0.105941
+    Learning Environment       3.689441              0.289487        0.089903

@@ -1,0 +1,24 @@
+============================================================
+DEMOGRAPHIC ANALYSIS REPORT
+============================================================
+
+Total Participants : 161
+
+Analysis Completed
+------------------------------
+✓ Gender Demographic Summary
+✓ Marital Status Demographic Summary
+✓ Age Group Demographic Summary
+✓ Experience Group Demographic Summary
+✓ Department Demographic Summary
+✓ Region Demographic Summary
+✓ Designation Demographic Summary
+✓ Role Demographic Summary
+✓ Gender Distribution Chart
+✓ Marital Status Distribution Chart
+✓ Age Group Distribution Chart
+✓ Experience Group Distribution Chart
+✓ Department Distribution Chart
+✓ Region Distribution Chart
+✓ Designation Distribution Chart
+✓ Role Distribution Chart

@@ -1,0 +1,44 @@
+============================================================
+EXPLORATORY DATA ANALYSIS REPORT
+============================================================
+
+Total Participants : 161
+Total Variables : 35
+
+NPS Distribution
+NPS
+10    69
+9     57
+8     26
+7      9
+Name: count, dtype: int64
+
+Gender Distribution
+Gender
+Male      124
+Female     37
+Name: count, dtype: int64
+
+Marital Status Distribution
+Martial status
+Single     98
+Married    63
+Name: count, dtype: int64
+
+Age Group Distribution
+Age_Group
+20-25 (Early Career)           58
+26-30 (Young Professional)     45
+31-35 (Mid Career)             34
+36-40 (Senior Professional)    16
+40+ (Highly Experienced)        8
+Name: count, dtype: int64
+
+Experience Group Distribution
+Experience_Group
+0-2 Years (Beginner)         48
+5-10 Years (Intermediate)    40
+10-20 Years (Senior)         34
+2-5 Years (Junior)           31
+20+ Years (Expert)            8
+Name: count, dtype: int64

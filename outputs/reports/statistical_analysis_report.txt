@@ -1,0 +1,17 @@
+============================================================
+STATISTICAL ANALYSIS REPORT
+============================================================
+
+Total Participants : 161
+
+Analysis Completed
+------------------------------
+✓ Descriptive Statistics
+✓ Correlation Analysis
+✓ Hypothesis Testing
+
+Output Files Generated
+------------------------------
+✓ descriptive_statistics.csv
+✓ correlation_analysis.csv
+✓ hypothesis_testing.csv

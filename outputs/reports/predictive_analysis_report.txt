@@ -1,0 +1,49 @@
+======================================================================
+PREDICTIVE ANALYSIS REPORT
+======================================================================
+
+Dataset Information
+-----------------------------------
+Total Records           : 161
+Training Records        : 128
+Testing Records         : 33
+
+Target Variable
+-----------------------------------
+NPS
+
+Features Used
+-----------------------------------
+• Age_Years
+• Experience_Years
+• Content_Quality_Index
+• Trainer_Effectiveness_Index
+• Learning_Environment_Index
+
+Models Trained
+-----------------------------------
+• Linear Regression
+• Decision Tree
+• Random Forest
+
+Model Performance
+-----------------------------------
+            Model    MAE   RMSE  R2_Score
+Linear Regression 0.7137 0.8574    0.2151
+    Random Forest 0.7361 0.9378    0.0610
+    Decision Tree 0.7273 1.1010   -0.2941
+
+Best Model
+-----------------------------------
+Model      : Linear Regression
+MAE        : 0.7137
+RMSE       : 0.8574
+R² Score   : 0.2151
+
+Top Predictive Features
+-----------------------------------
+Trainer_Effectiveness_Index : 0.6730
+Content_Quality_Index : 0.6124
+Learning_Environment_Index : 0.0238
+Age_Years : 0.0233
+Experience_Years : 0.0116
