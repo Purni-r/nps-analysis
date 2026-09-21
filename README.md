@@ -288,22 +288,6 @@ The project produces analytical outputs including:
 
 ---
 
-## 🔮 Future Improvements
-
-Potential extensions include:
-
-* Automated NPS reporting
-* Interactive Power BI dashboard
-* Batch-to-batch comparison
-* Automated survey data ingestion
-* Statistical significance testing across groups
-* Improved predictive modeling
-* NPS trend monitoring
-* Automated recommendation generation
-* Integration with future training feedback datasets
-
----
-
 ## 👩‍💻 Author
 
 **Purnima R**
